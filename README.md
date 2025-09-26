@@ -23,19 +23,32 @@ Cover Image
 │   README.md
 │
 ├───assets
+
 │       Bad Loan.png
+
 │       bank_logo.jpg
+
 │       cover_image.png
+
 │       details.jpg
+
 │       Employee Length.png
+
 │       Geographic Heatmap.png
+
 │       Good Loan.png
+
 │       Loan Purpose.png
+
 │       Long Term.png
+
 │       Monthly Trend.png
+
 │       overview.jpg
+
 │       summary.jpg
 │
+
 ├───data
 │       financial_loan.csv
 │
