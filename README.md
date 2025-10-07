@@ -58,9 +58,7 @@ Explore Dataset:
 
 Raw dataset used: data/financial_loan.csv.
 
-View Reports:
 
-📄 PDF: 
 
 📷 Screenshots
 🔹 Summary Dashboard
